@@ -1,4 +1,4 @@
-✅ 1. Abrir la terminal
+1. Abrir la terminal
 
 Opción A – CMD
 
@@ -14,7 +14,7 @@ Clic derecho en el botón Inicio
 
 Elegir Windows PowerShell o Terminal
 
-✅ 2. Ir a la carpeta donde está mysqldump
+2. Ir a la carpeta donde está mysqldump
 
 Normalmente está en:
 
@@ -30,7 +30,7 @@ Y probar que funcione:
 
 mysqldump --version
 
-✅ 3. Usar mysqldump (Ejemplo básico)
+3. Usar mysqldump (Ejemplo básico)
 
 Para hacer un respaldo de una base de datos:
 
@@ -41,7 +41,7 @@ Ingresar contraseña y generará el archivo respaldo.sql en la carpeta actual.
 
 
 
-✅ 4. Exportar mysqldump
+4. Exportar mysqldump
 
 Para exportar base de datos en la terminal:
 
